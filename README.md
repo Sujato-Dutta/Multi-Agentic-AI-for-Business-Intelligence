@@ -4,7 +4,7 @@
 
 🔗 **Live Demo**: [multi-agentic-ai-for-business-intelligence](https://multi-agentic-ai-for-business-intelligence-hb85fwc0a.vercel.app/)
 
-![Dashboard Demo](dashboard.jpg)
+![Dashboard Demo](Dashboard.jpg)
 ---
 
 ## Tech Stack
