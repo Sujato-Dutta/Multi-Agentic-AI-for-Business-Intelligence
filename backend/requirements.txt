@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+groq
+pandas
+numpy
+matplotlib
+seaborn
+reportlab
+requests
+openpyxl
+scipy
+python-dotenv
+python-multipart
+pillow
+supabase

@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+.env
+node_modules
+.next
+.git
+*.md
+frontend/
+.dockerignore
+Dockerfile
+.gitignore
+outputs/*.pdf
