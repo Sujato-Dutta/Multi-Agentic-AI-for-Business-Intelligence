@@ -2,8 +2,9 @@
 
 > An AI-powered business intelligence platform where specialized agents collaborate to analyze your data, generate insights, and deliver professional reports — all from a single natural language query.
 
-🔗 **Live Demo**: [Coming Soon](#)
+🔗 **Live Demo**: [multi-agentic-ai-for-business-intelligence](https://multi-agentic-ai-for-business-intelligence-hb85fwc0a.vercel.app/)
 
+![Dashboard Demo](dashboard.jpg)
 ---
 
 ## Tech Stack
@@ -279,7 +280,8 @@ Open http://localhost:3000
 
 ## Author
 
-**Sujato Dutta**
+**Sujato Dutta**  
+[LinkedIn](https://www.linkedin.com/in/sujato-dutta/)
 
 ---
 
